@@ -1,32 +1,24 @@
-# Coursera-Tools-for-Data-Science-Week-6-Final-Assignment
-Final Assignment Instructions: Create and Share Your Jupyter Notebook
+The final task of this capstone project is to create a presentation based on the outcomes of all tasks in previous modules and labs. Your presentation will develop into a story of all your data science journey in this project, and it should be compelling and easy to understand.
 
-# Data Science Tools and Ecosystem
-In this notebook, Data Science Tools and Ecosystem are summarized.
+In the next exercise, you can find a provided PowerPoint template to help you get started. However, you are free to add additional slides, charts, and tables.
 
-Some of the popular languages that Data Scientists use are:
-1. Python
-2. R
-3. SQL
+There are a total of 40 points possible for the final assessment, and you will be graded by your peers, who are also completing this assignment.
 
-Some of the commonly used libraries used by Data Scientists include:
-1. Pandas
-2. NumPy
-3. Scikit-learn
+Review criteria
+The main grading criteria will be:
 
-### Below are a few examples of evaluating arithmetic expressions in Python.
-# This is a simple arithmetic expression to multiply then add integers.
-(3*4)+5
-Output = 17
-# This will convert 200 minutes to hours by dividing by 60.
-200 / 60
-Output = 3.3333333333333335
-
-**Objectives:**
-- List popular languages for Data Science.
-- Introduce commonly used Data Science libraries.
-- Showcase basic arithmetic operations.
-- Demonstrate how to create and format markdown cells.
-
-## Author
-Ronald van der Merwe
+Uploaded the URL of your GitHub repository including all the completed notebooks and Python files (1 pt)
+Uploaded your completed presentation in PDF format (1 pt)
+Completed the required Executive Summary slide (1 pt)
+Completed the required Introduction slide (1 pt)
+Completed the required data collection and data wrangling methodology related slides (1 pt)
+Completed the required EDA and interactive visual analytics methodology related slides (3 pts)
+Completed the required predictive analysis methodology related slides (1 pt)
+Completed the required EDA with visualization results slides (6 pts)
+Completed the required EDA with SQL results slides (10 pts)
+Completed the required interactive map with Folium results slides (3 pts)
+Completed the required Plotly Dash dashboard results slides (3 pts)
+Completed the required predictive analysis (classification) results slides (6 pts)
+Completed the required Conclusion slide (1 pts)
+Applied your creativity to improve the presentation beyond the template (1 pts)
+Displayed any innovative insights (1 pts)
